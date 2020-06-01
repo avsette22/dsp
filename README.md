@@ -53,7 +53,7 @@ Completing the pre-work is essential to obtaining the foundational knowledge nec
 
 ## <a name="section-d"></a>4.  FAQs
 
-#### Q:  How do I submit pre-work?  
+#### Q:  How do I submit pre-work you ask?  
 * Sections 0 to 4
   * Fork the dsp repo **this is covered in the GitHub section**
   * Clone your forked dsp repo to your local PC 
